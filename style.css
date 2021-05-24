@@ -1,0 +1,140 @@
+.c_1 {
+  width: 100%;
+  height: 100%;
+  margin: 10px;
+}
+
+.button {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 20px;
+  color: #eee;
+  background: #424141;
+  padding: 10px 20px;
+  border-radius: 15px;
+  transition: .4s;
+}
+
+.header img {
+  margin-top: 28px;
+}
+
+.header nav {
+  padding-top: 15px;
+}
+
+.header nav ul li {
+  display: inline-block;
+}
+
+.header nav ul li a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 15px 20px;
+}
+
+.header span {
+  display: inline-block;
+  margin-top: 25px;
+  border-radius: 10px;
+  transition: .4s;
+}
+
+.header span:hover {
+  padding-right: 200px;
+}
+
+.header span i {
+  display: inline-block;
+  padding: 8px;
+  font-size: 20px;
+}
+
+.repear {
+  padding: 100px 0;
+  background: #F6F6F6;
+}
+
+.repear .repear_1 .repear_text h4 {
+  margin: 25px 0;
+}
+
+.repear .repear_1 .repear_text p {
+  margin-bottom: 25px;
+}
+
+.repear .repear_1:hover a {
+  background: #3DBAD5;
+  color: #fff;
+}
+
+.choose {
+  background-color: #F6F6F6;
+  padding: 100px 0;
+  border-top: 3px solid #fff;
+}
+
+.choose .title .blank {
+  width: 100px;
+  height: 3px;
+  margin: 50px auto;
+}
+
+.choose .card {
+  transition: .4s;
+}
+
+.choose .card i {
+  font-size: 50px;
+}
+
+.choose .card:hover {
+  background: lightblue;
+  color: #fff;
+  transform: skewX(30deg);
+  transform: perspective(500) scaleZ(1.1);
+}
+
+.footer_top {
+  background: #191919;
+  padding: 100px 0 150px;
+  color: #fff;
+}
+
+.footer_top .footer_top_1 .blank {
+  width: 50px;
+  height: 3px;
+  background-color: #fff;
+  margin: 30px 0;
+}
+
+.footer_top .footer_top_1 .p_div {
+  color: #ada4a4;
+  position: relative;
+}
+
+.footer_top .footer_top_1 .p_div h4 span {
+  margin-right: 5px;
+}
+
+.footer_top .footer_top_1 .p_div input {
+  border-radius: 10px;
+}
+
+.footer_top .footer_top_1 .p_div .go {
+  position: absolute;
+  top: 7px;
+  right: -30px;
+  background: #000;
+  color: #fff;
+  border-radius: 7px;
+  padding: 0 3px;
+}
+
+.footer_top .footer_top_1 .contact span {
+  margin-right: 15px;
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
